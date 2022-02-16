@@ -1543,7 +1543,7 @@ a.action-bottom:hover {
 }
 
 .page-title {
-  background-image: url(../img/page-title.jpg);
+  background-image: url(../img/page-title.jpg.png);
   background-size: cover;
   background-position: center center;
 }
